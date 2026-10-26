@@ -19,6 +19,13 @@ los ejemplos ilustrativos no se presentan como resultados de clientes.
 | **Data Science** | Applied statistics, model validation, forecasting, impact evaluation, and survival analysis in R | [Data Science Portfolio](https://github.com/Avaldez77/Data-science-Portafolio) |
 | **RPA & Process Automation** | Python workflow validation, invoice reconciliation, retries, audit trails, and safe dry runs | [RPA Portfolio](https://github.com/Avaldez77/RPAs-Portafolio) |
 
+## Featured end-to-end case
+
+[Capital Bikeshare Demand Intelligence](https://github.com/Avaldez77/BikeShare-Demand-Intelligence)
+connects public-data ingestion and quality checks, a DuckDB warehouse,
+operational analysis, an R forecasting backtest, and a dry-run report package.
+Its README documents source attribution, setup, outputs, and limitations.
+
 ## Selected runnable work
 
 - [Experiment analysis](https://github.com/Avaldez77/Data-Analytics-Portafolio/tree/main/Exercises/Experiment%20Analysis):
